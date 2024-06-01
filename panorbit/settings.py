@@ -144,7 +144,7 @@ LOGIN_URL = 'signup'
 # email configurations
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'honeygain.ujjwal@gmail.com'
+EMAIL_HOST_USER = 'XXXX'
 EMAIL_HOST_PASSWORD = 'XXXX'
 EMAIL_PORT = 587
 
