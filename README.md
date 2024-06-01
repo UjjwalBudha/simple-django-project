@@ -102,3 +102,7 @@ Now you are good to go.
 ![](https://i.imgur.com/3zh3YKd.png)
 #### Logout: [http://localhost:8001/logout](http://localhost:8001/logout)
 
+
+This is the cloned repo from : https://github.com/Manisha-Bayya/simple-django-project.git
+made small changes in the code
+
